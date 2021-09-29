@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to hashicat app.  blah blah blah.
+=======
+  Welcome to hashicat app. blah blah blah.
+>>>>>>> 7fced22274fd0f91e429b74c54b2057045b549ab
   <!-- END -->
 
   </div>
